@@ -1,4 +1,4 @@
-<h1 align="center" width="50"> Hi I'm Patryk Lorbiecki 👋💻</h1>
+<h1 align="center" width="50"> Hi, I'm Patryk Lorbiecki 👋💻</h1>
 <hr/>
 
  <img align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=patryklorbiecki1&show_icons=true&locale=en&layout=compact&theme=react&line_height=40" />
@@ -28,10 +28,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-</div>  
- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=patryklorbiecki1&&style=flat-square" align="center" />
-</div>  
   
 <!--
 **patryklorbiecki1/patryklorbiecki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
