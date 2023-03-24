@@ -1,10 +1,11 @@
-### Hi there 👋💻
+<h1 align="center" width="50"> Hi I'm Patryk Lorbiecki 👋💻</h1>
+<hr/>
 
  <img align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=patryklorbiecki1&show_icons=true&locale=en&layout=compact&theme=react&line_height=40" />
    
  <img align="center" width="50%" height="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patryklorbiecki1&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
 
-<br />
+<hr />
 
 ### ⚡ Some Technologies I use  :
 - 💻 : Java | Spring-Boot
