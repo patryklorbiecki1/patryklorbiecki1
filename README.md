@@ -29,6 +29,10 @@
 </a>
 
 </div>  
+ <div align="center">
+<img src="https://komarev.com/ghpvc/?username=patryklorbiecki1&&style=flat-square" align="center" />
+</div>  
+  
 <!--
 **patryklorbiecki1/patryklorbiecki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
