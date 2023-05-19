@@ -9,9 +9,9 @@
 
 ### ⚡ Some Technologies I use  :
 - 💻 : Java | Spring-Boot
-- 🛢️ : SQL | Microsoft SQL Server | MongoDb
+- 🛢️ :  PostgreSQL | MongoDb
 - ♨️ : Spring Data | Hibernate
-- 🌐 : Angular | HTML | CSS | SCSS | Javascript | Typescript | Bootstrap
+- 🌐 : Angular | HTML | CSS | Javascript | Typescript | Bootstrap
 - 📟 : Linux | Windows
 - 💽 : Git | Github
 - ⚡ : Docker | Kubernetes | Elasticsearch
